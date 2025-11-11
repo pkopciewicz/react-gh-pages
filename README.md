@@ -1,2 +1,2 @@
-# pkopciewicz.github.io
+# react-gh-pages
 My home page 
